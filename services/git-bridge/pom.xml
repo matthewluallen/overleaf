@@ -28,7 +28,7 @@
         <logback.classic.version>1.2.3</logback.classic.version>
         <mockserver.version>5.12.0</mockserver.version>
         <mockito.version>5.12.0</mockito.version>
-        <aws.java.sdk.version>1.11.274</aws.java.sdk.version>
+        <aws.java.sdk.version>1.12.767</aws.java.sdk.version>
         <jakarta.xml.bind.api.version>${jaxb.runtime.version}</jakarta.xml.bind.api.version>
         <jaxb.runtime.version>2.3.2</jaxb.runtime.version>
         <httpclient.version>4.5.14</httpclient.version>
